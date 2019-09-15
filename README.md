@@ -42,4 +42,4 @@ You can practice that by going to Github and creating an empty repo in your own 
 Now, can you create a local repo (`git init`), add Github as remote,
 and push stuff to it?
 
-asasdeqweqe
+XD
